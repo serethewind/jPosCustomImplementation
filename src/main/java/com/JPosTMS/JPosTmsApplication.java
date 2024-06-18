@@ -1,5 +1,6 @@
-package com.serethewind.JPosTMS;
+package com.JPosTMS;
 
+import org.jpos.q2.Q2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

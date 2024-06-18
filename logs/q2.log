@@ -1,0 +1,2587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T14:39:38.579285500">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.247049300" lifespan="5655ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="stdout" at="2024-05-16T14:39:43.937240700" lifespan="823ms">
+    2024-05-16T14:39:43.113+01:00  WARN 32088 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.359958400" lifespan="103ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.891831" lifespan="524ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.946807100" lifespan="49ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.966480200" lifespan="19ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T14:39:44.991436400" lifespan="24ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.q2.iso.QServer" at="2024-05-16T14:39:45.136983200">
+  <warn>
+    error starting service
+    <iso-exception>
+      org.jpos.core.ConfigurationException: packager-config property cannot be null
+      <iso-exception>
+        packager-config property cannot be null
+        org.jpos.core.ConfigurationException: packager-config property cannot be null
+	at org.jpos.iso.packager.GenericPackager.setConfiguration(GenericPackager.java:146)
+	at org.jpos.q2.QFactory.setConfiguration(QFactory.java:378)
+	at org.jpos.q2.iso.ChannelAdaptor.newChannel(ChannelAdaptor.java:202)
+	at org.jpos.q2.iso.QServer.newChannel(QServer.java:88)
+	at org.jpos.q2.iso.QServer.initServer(QServer.java:97)
+	at org.jpos.q2.iso.QServer.startService(QServer.java:158)
+	at org.jpos.q2.QBeanSupport.start(QBeanSupport.java:137)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:97)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:112)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:46)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:236)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:803)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at org.jpos.q2.QFactory.startQBean(QFactory.java:176)
+	at org.jpos.q2.Q2.start(Q2.java:624)
+	at org.jpos.q2.Q2.deploy(Q2.java:409)
+	at org.jpos.q2.Q2.run(Q2.java:258)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+      </iso-exception>
+      org.jpos.core.ConfigurationException: org.jpos.core.ConfigurationException: packager-config property cannot be null (org.jpos.core.ConfigurationException: packager-config property cannot be null)
+	at org.jpos.q2.QFactory.setConfiguration(QFactory.java:382)
+	at org.jpos.q2.iso.ChannelAdaptor.newChannel(ChannelAdaptor.java:202)
+	at org.jpos.q2.iso.QServer.newChannel(QServer.java:88)
+	at org.jpos.q2.iso.QServer.initServer(QServer.java:97)
+	at org.jpos.q2.iso.QServer.startService(QServer.java:158)
+	at org.jpos.q2.QBeanSupport.start(QBeanSupport.java:137)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:97)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:112)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:46)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:236)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:803)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at org.jpos.q2.QFactory.startQBean(QFactory.java:176)
+	at org.jpos.q2.Q2.start(Q2.java:624)
+	at org.jpos.q2.Q2.deploy(Q2.java:409)
+	at org.jpos.q2.Q2.run(Q2.java:258)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Nested:org.jpos.core.ConfigurationException: packager-config property cannot be null
+	at org.jpos.iso.packager.GenericPackager.setConfiguration(GenericPackager.java:146)
+	at org.jpos.q2.QFactory.setConfiguration(QFactory.java:378)
+	at org.jpos.q2.iso.ChannelAdaptor.newChannel(ChannelAdaptor.java:202)
+	at org.jpos.q2.iso.QServer.newChannel(QServer.java:88)
+	at org.jpos.q2.iso.QServer.initServer(QServer.java:97)
+	at org.jpos.q2.iso.QServer.startService(QServer.java:158)
+	at org.jpos.q2.QBeanSupport.start(QBeanSupport.java:137)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at sun.reflect.misc.Trampoline.invoke(MethodUtil.java:64)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/sun.reflect.misc.MethodUtil.invoke(MethodUtil.java:97)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:112)
+	at java.management/com.sun.jmx.mbeanserver.StandardMBeanIntrospector.invokeM2(StandardMBeanIntrospector.java:46)
+	at java.management/com.sun.jmx.mbeanserver.MBeanIntrospector.invokeM(MBeanIntrospector.java:236)
+	at java.management/com.sun.jmx.mbeanserver.PerInterface.invoke(PerInterface.java:138)
+	at java.management/com.sun.jmx.mbeanserver.MBeanSupport.invoke(MBeanSupport.java:252)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:803)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at org.jpos.q2.QFactory.startQBean(QFactory.java:176)
+	at org.jpos.q2.Q2.start(Q2.java:624)
+	at org.jpos.q2.Q2.deploy(Q2.java:409)
+	at org.jpos.q2.Q2.run(Q2.java:258)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+    </iso-exception>
+  </warn>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T14:39:45.156691700" lifespan="19ms">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T14:39:45.156691700" lifespan="19ms">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T14:39:45.166889500">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T14:39:46.536801800">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 32088@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 314.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: d4b8992e-490c-491f-9abd-9c44842dff0b
+       uptime: 00:00:06.919 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 74/49/24
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715866786 2024-05-16T13:39:45.191657100Z
+ thread count: 25
+ peak threads: 25
+ user threads: 19
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-d4b8992e-490c-491f-9abd-9c44842dff0b,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>jpos-channel.ready</key>
+    <key count='1'>$TAILLOCK.195743793</key>
+     key-count: 2
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=true, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=1, last=0
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  logger.: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@baad031: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T14:39:48.903911500" lifespan="513ms">
+    2024-05-16T14:39:48.390+01:00  INFO 32088 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T14:39:48.564+01:00  INFO 32088 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 17.338 seconds (process running for 18.031)
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T14:44:46.035369200">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T14:49:56.386965400">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T14:55:06.924795700">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T15:00:17.157309300">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:04:42.585630300">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.764070700" lifespan="1173ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.797226900" lifespan="16ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.891904200" lifespan="91ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.935127600" lifespan="43ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.955375" lifespan="20ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:04:43.976592500" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:04:44.193096" lifespan="512ms">
+    2024-05-16T15:04:43.680+01:00  WARN 18120 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:04:44.555167400">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:04:44.555167400">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:04:44.581693300">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:04:44.581693300">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:04:44.880122100">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 18120@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 314.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: 15a7f1f9-8f63-431b-8279-e8a5fba63c23
+       uptime: 00:00:02.350 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/47/40
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715868284 2024-05-16T14:04:44.614988300Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-15a7f1f9-8f63-431b-8279-e8a5fba63c23,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1067881674</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@3fa694ca: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:04:46.785034700" lifespan="565ms">
+    2024-05-16T15:04:46.219+01:00  INFO 18120 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:04:46.380+01:00  INFO 18120 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 11.215 seconds (process running for 11.797)
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:06:47.663784500">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.275288200" lifespan="607ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.290647500" lifespan="10ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.311726600" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.333539300" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.349612100" lifespan="15ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:06:48.365862800" lifespan="15ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:06:48.438523900">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:06:48.438523900">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:06:48.472122">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:06:48.473120700">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-05-16T15:06:48.598301400" lifespan="500ms">
+    2024-05-16T15:06:48.097+01:00  WARN 28764 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:06:48.640367600">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 28764@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 314.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: 533b824a-a1ec-4a41-9af7-c9cad5f0d2ac
+       uptime: 00:00:01.060 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 72/51/20
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715868408 2024-05-16T14:06:48.486829600Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-533b824a-a1ec-4a41-9af7-c9cad5f0d2ac,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1308198164</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@4df98514: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:06:49.316233600" lifespan="504ms">
+    2024-05-16T15:06:48.810+01:00  INFO 28764 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:06:48.859+01:00  INFO 28764 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 6.99 seconds (process running for 7.959)
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.850499300">
+  <info>
+    created deploy/50_pos-server.xml~
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.863930700">
+  <info>
+    modified deploy/50_pos-server.xml~
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.865946300">
+  <info>
+    modified deploy/50_pos-server.xml~
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.872480600">
+  <trace>
+    undeploying:C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </trace>
+</log>
+<log realm="pos-server.pool" at="2024-05-16T15:07:32.875479400">
+  <queue-closed/>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.875479400">
+  <info>
+    undeployed:C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.876480700">
+  <info>
+    modified deploy/50_pos-server.xml
+    removed deploy/50_pos-server.xml~
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:07:32.922611700" lifespan="44ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:07:32.925603300">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:08:04.245055100">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:08:07.479214" lifespan="539ms">
+    2024-05-16T15:08:06.939+01:00  WARN 19196 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:07.779610100" lifespan="3526ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:07.809450400" lifespan="18ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:08.045056800" lifespan="235ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:08.329627100" lifespan="284ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:08.399376600" lifespan="69ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:08:08.424143600" lifespan="24ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:08:09.094152300">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:08:09.099343500">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:08:09.189426900">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:08:09.199825200">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:08:09.921678800">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 19196@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 314.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: dd0de68e-5304-4ded-a1bb-040e64e934de
+       uptime: 00:00:05.430 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 108/54/53
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715868489 2024-05-16T14:08:09.244243600Z
+ thread count: 27
+ peak threads: 27
+ user threads: 21
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-dd0de68e-5304-4ded-a1bb-040e64e934de,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>jpos-channel.ready</key>
+    <key count='1'>$TAILLOCK.1847811251</key>
+     key-count: 2
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=true, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=1, last=0
+  tspace:org.jpos.transaction.TransactionManager@6e235cb3: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:08:10.803351" lifespan="563ms">
+    2024-05-16T15:08:10.239+01:00  INFO 19196 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:08:10.349+01:00  INFO 19196 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 14.99 seconds (process running for 15.605)
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:09:47.087336300">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.661435800" lifespan="570ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.690124800" lifespan="8ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.722232" lifespan="32ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.745291500" lifespan="22ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.755831200" lifespan="10ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:09:47.770687300" lifespan="13ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:09:47.843828800">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:09:47.844830800">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:09:47.853534700">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:09:47.854539900">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:09:48.009170400">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 20420@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 314.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: 2e37c604-9cda-40c9-b473-13174d180677
+       uptime: 00:00:00.940 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/49/38
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715868588 2024-05-16T14:09:47.867241900Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-2e37c604-9cda-40c9-b473-13174d180677,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.539357841</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@2025f291: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:09:48.048975900" lifespan="501ms">
+    2024-05-16T15:09:47.547+01:00  WARN 20420 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="stdout" at="2024-05-16T15:09:48.707381100" lifespan="501ms">
+    2024-05-16T15:09:48.205+01:00  INFO 20420 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:09:48.224+01:00  INFO 20420 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 6.485 seconds (process running for 6.998)
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T15:14:48.100602300">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-16T15:19:58.407764900">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:22:42.797914100" lifespan="1ms">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.480793700" lifespan="679ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.498209400" lifespan="11ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.522361600" lifespan="24ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.544031800" lifespan="20ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.557186300" lifespan="11ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:22:43.569679700" lifespan="11ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:22:43.641122800">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:22:43.641122800">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:22:43.657298900">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:22:43.658300600">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-05-16T15:22:43.808516200" lifespan="501ms">
+    2024-05-16T15:22:43.305+01:00  WARN 29820 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:22:43.839567700">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 29820@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 317.4 GiB
+      version: 2.1.9 (0060f93)
+     instance: afc7c07e-371b-4d45-b98b-aebec5d81426
+       uptime: 00:00:01.037 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/50/37
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715869363 2024-05-16T14:22:43.673566600Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-afc7c07e-371b-4d45-b98b-aebec5d81426,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1661714087</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  tspace:org.jpos.transaction.TransactionManager@630bbea7: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:22:44.545414600" lifespan="500ms">
+    2024-05-16T15:22:44.043+01:00  INFO 29820 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:22:44.055+01:00  INFO 29820 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 8.04 seconds (process running for 9.114)
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-16T15:23:58.009303100" lifespan="1ms">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.635735600" lifespan="623ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.650385200" lifespan="11ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.672420600" lifespan="22ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.694991800" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.706625100" lifespan="10ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-16T15:23:58.724215200" lifespan="16ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:23:58.802588500">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-16T15:23:58.803582700">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:23:58.814170600">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-16T15:23:58.817794300">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-16T15:23:58.967965800">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 33468@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.8.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 317.4 GiB
+      version: 2.1.9 (0060f93)
+     instance: 28f0995a-3ffd-4e35-b70c-ce998d1c7406
+       uptime: 00:00:00.988 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 72/50/21
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715869438 2024-05-16T14:23:58.830388600Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-28f0995a-3ffd-4e35-b70c-ce998d1c7406,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.983485923</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  tspace:org.jpos.transaction.TransactionManager@3a9ecde3: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  </info>
+</log>
+<log realm="stdout" at="2024-05-16T15:23:58.978579200" lifespan="500ms">
+    2024-05-16T15:23:58.477+01:00  WARN 33468 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="stdout" at="2024-05-16T15:23:59.691207700" lifespan="500ms">
+    2024-05-16T15:23:59.189+01:00  INFO 33468 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-16T15:23:59.206+01:00  INFO 33468 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 6.7 seconds (process running for 7.326)
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-17T09:58:11.201023700">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="stdout" at="2024-05-17T09:58:12.659227200" lifespan="640ms">
+    2024-05-17T09:58:12.016+01:00  WARN 22228 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:13.351031700" lifespan="2150ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:13.431623200" lifespan="38ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:13.573174300" lifespan="141ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:14.105287300" lifespan="522ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:14.237014600" lifespan="131ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T09:58:14.440972" lifespan="203ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T09:58:15.168776">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T09:58:15.170552700">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T09:58:15.262100400">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-17T09:58:15.436369200">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-05-17T09:58:16.098166" lifespan="512ms">
+    2024-05-17T09:58:15.582+01:00  INFO 22228 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-17T09:58:15.642+01:00  INFO 22228 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 18.965 seconds (process running for 25.855)
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T09:58:16.468161900">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 22228@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 312.9 GiB
+      version: 2.1.9 (0060f93)
+     instance: fb5ef9f0-bf70-4ede-8833-5fc3a79283c4
+       uptime: 00:00:05.311 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/33/54
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715936296 2024-05-17T08:58:15.471934400Z
+ thread count: 39
+ peak threads: 39
+ user threads: 33
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-fb5ef9f0-bf70-4ede-8833-5fc3a79283c4,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-1:idle,5,main]
+        Thread[#53,txnmgr-0:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+        Thread[#59,http-nio-8080-exec-1,5,main]
+        Thread[#60,http-nio-8080-exec-2,5,main]
+        Thread[#61,http-nio-8080-exec-3,5,main]
+        Thread[#62,http-nio-8080-exec-4,5,main]
+        Thread[#63,http-nio-8080-exec-5,5,main]
+        Thread[#64,http-nio-8080-exec-6,5,main]
+        Thread[#65,http-nio-8080-exec-7,5,main]
+        Thread[#66,http-nio-8080-exec-8,5,main]
+        Thread[#67,http-nio-8080-exec-9,5,main]
+        Thread[#68,http-nio-8080-exec-10,5,main]
+        Thread[#69,http-nio-8080-Poller,5,main]
+        Thread[#70,http-nio-8080-Acceptor,5,main]
+        Thread[#71,DestroyJavaVM,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1661714087</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  tspace:org.jpos.transaction.TransactionManager@630bbea7: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-17T10:03:19.390877800">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:51453" at="2024-05-17T10:06:46.519196700">
+  <session-start/>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-17T10:08:29.754089600">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:51453" at="2024-05-17T10:11:46.545788600">
+  <session-end/>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-17T10:13:40.533503500">
+  <warn>
+    channel-receiver-message-from-ptsa
+    Read timeout / EOF - reconnecting
+  </warn>
+</log>
+<log realm="org.jpos.q2.iso.ChannelAdaptor" at="2024-05-17T10:17:41.751921400">
+  <warn>
+    channel-receiver-message-from-ptsa
+    <exception name="Connection reset">
+    java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1099)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:291)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:347)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:208)
+	at org.jpos.iso.channel.NACChannel.getMessageLength(NACChannel.java:93)
+	at org.jpos.iso.BaseChannel.receive(BaseChannel.java:719)
+	at org.jpos.q2.iso.ChannelAdaptor$Receiver.run(ChannelAdaptor.java:333)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+    </exception>
+  </warn>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-17T10:23:24.606639300">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.443471200" lifespan="831ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.464864500" lifespan="16ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.533634" lifespan="68ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.610075200" lifespan="75ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="stdout" at="2024-05-17T10:23:25.623365900" lifespan="500ms">
+    2024-05-17T10:23:25.122+01:00  WARN 27384 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.683767100" lifespan="70ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:23:25.730752800" lifespan="45ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T10:23:25.844208">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T10:23:25.846745400" lifespan="2ms">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T10:23:25.862904">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-17T10:23:25.863905300">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T10:23:26.144430">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 27384@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 313.1 GiB
+      version: 2.1.9 (0060f93)
+     instance: 88231708-1a65-469e-b822-7d0ea6e6e1db
+       uptime: 00:00:01.526 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/57/30
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715937806 2024-05-17T09:23:25.883858200Z
+ thread count: 38
+ peak threads: 38
+ user threads: 32
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-88231708-1a65-469e-b822-7d0ea6e6e1db,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-1:idle,5,main]
+        Thread[#53,txnmgr-0:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+        Thread[#59,http-nio-8080-exec-1,5,main]
+        Thread[#60,http-nio-8080-exec-2,5,main]
+        Thread[#61,http-nio-8080-exec-3,5,main]
+        Thread[#62,http-nio-8080-exec-4,5,main]
+        Thread[#63,http-nio-8080-exec-5,5,main]
+        Thread[#64,http-nio-8080-exec-6,5,main]
+        Thread[#65,http-nio-8080-exec-7,5,main]
+        Thread[#66,http-nio-8080-exec-8,5,main]
+        Thread[#67,http-nio-8080-exec-9,5,main]
+        Thread[#68,http-nio-8080-exec-10,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.235424282</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@e084a1a: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-17T10:23:26.774924800" lifespan="500ms">
+    2024-05-17T10:23:26.273+01:00  INFO 27384 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-17T10:23:26.290+01:00  INFO 27384 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 9.986 seconds (process running for 17.904)
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:51963" at="2024-05-17T10:23:46.651047500">
+  <session-start/>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:51963" at="2024-05-17T10:26:53.506835300">
+  <session-end/>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-17T10:38:37.525636400">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.682105700" lifespan="1149ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.722541800" lifespan="30ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="stdout" at="2024-05-17T10:38:38.763737400" lifespan="501ms">
+    2024-05-17T10:38:38.260+01:00  WARN 19936 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.780584100" lifespan="57ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.840187100" lifespan="58ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.886078900" lifespan="45ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-17T10:38:38.927015700" lifespan="40ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T10:38:39.052593100">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-17T10:38:39.053594600">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T10:38:39.071701">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-17T10:38:39.073669600">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-17T10:38:39.405929700">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 19936@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 313.2 GiB
+      version: 2.1.9 (0060f93)
+     instance: 8324e6f9-5f63-415a-b8d9-30dfc7f513e8
+       uptime: 00:00:01.898 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 90/57/32
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1715938719 2024-05-17T09:38:39.106401700Z
+ thread count: 38
+ peak threads: 38
+ user threads: 32
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-8324e6f9-5f63-415a-b8d9-30dfc7f513e8,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+        Thread[#59,http-nio-8080-exec-1,5,main]
+        Thread[#60,http-nio-8080-exec-2,5,main]
+        Thread[#61,http-nio-8080-exec-3,5,main]
+        Thread[#62,http-nio-8080-exec-4,5,main]
+        Thread[#63,http-nio-8080-exec-5,5,main]
+        Thread[#64,http-nio-8080-exec-6,5,main]
+        Thread[#65,http-nio-8080-exec-7,5,main]
+        Thread[#66,http-nio-8080-exec-8,5,main]
+        Thread[#67,http-nio-8080-exec-9,5,main]
+        Thread[#68,http-nio-8080-exec-10,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1234592887</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.NACChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  logger.: org.jpos.util.Logger
+  tspace:org.jpos.transaction.TransactionManager@49966477: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-17T10:38:39.991919800" lifespan="501ms">
+    2024-05-17T10:38:39.490+01:00  INFO 19936 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-17T10:38:39.511+01:00  INFO 19936 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 12.155 seconds (process running for 19.585)
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:55630" at="2024-05-17T10:39:31.866866200" lifespan="1ms">
+  <session-start/>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:55630" at="2024-05-17T10:39:53.141801">
+  <session-end/>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-18T12:19:25.891283400">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="stdout" at="2024-05-18T12:19:28.601206600" lifespan="517ms">
+    2024-05-18T12:19:28.083+01:00  WARN 5876 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:28.999591800" lifespan="3101ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:29.022596800" lifespan="16ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:29.085702600" lifespan="62ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:29.146883900" lifespan="58ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:29.170823800" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:19:29.229127800" lifespan="56ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:19:29.309378400">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:19:29.311815900">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:19:29.333466500">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-18T12:19:29.336465400">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:19:29.866891900">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 5876@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 316.9 GiB
+      version: 2.1.9 (0060f93)
+     instance: 7b3a1d55-cf90-4202-8a2f-6a2caf714cb1
+       uptime: 00:00:04.842 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 72/57/14
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1716031169 2024-05-18T11:19:29.383350900Z
+ thread count: 39
+ peak threads: 39
+ user threads: 33
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-7b3a1d55-cf90-4202-8a2f-6a2caf714cb1,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+        Thread[#59,http-nio-8080-exec-1,5,main]
+        Thread[#60,http-nio-8080-exec-2,5,main]
+        Thread[#61,http-nio-8080-exec-3,5,main]
+        Thread[#62,http-nio-8080-exec-4,5,main]
+        Thread[#63,http-nio-8080-exec-5,5,main]
+        Thread[#64,http-nio-8080-exec-6,5,main]
+        Thread[#65,http-nio-8080-exec-7,5,main]
+        Thread[#66,http-nio-8080-exec-8,5,main]
+        Thread[#67,http-nio-8080-exec-9,5,main]
+        Thread[#68,http-nio-8080-exec-10,5,main]
+        Thread[#69,http-nio-8080-Poller,5,main]
+        Thread[#70,http-nio-8080-Acceptor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.313474900</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.ASCIIChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  tspace:org.jpos.transaction.TransactionManager@12af3f54: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-18T12:19:30.338219900" lifespan="519ms">
+    2024-05-18T12:19:29.819+01:00  INFO 5876 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-18T12:19:29.854+01:00  INFO 5876 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 21.746 seconds (process running for 31.12)
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:55214" at="2024-05-18T12:20:24.855556600">
+  <session-start/>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-18T12:22:31.591670700">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.308801200" lifespan="714ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.340805400" lifespan="27ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.397762500" lifespan="55ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.423766700" lifespan="25ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.436267200" lifespan="11ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:22:32.451296800" lifespan="15ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:22:32.495855800">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:22:32.495855800">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:22:32.510307400">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-18T12:22:32.512308800">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-05-18T12:22:32.594917100" lifespan="502ms">
+    2024-05-18T12:22:32.092+01:00  WARN 3244 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:22:32.727795700">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 3244@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 316.9 GiB
+      version: 2.1.9 (0060f93)
+     instance: 8ca21565-091a-4f9b-b22d-b2d9b0081a0d
+       uptime: 00:00:01.103 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 88/49/38
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1716031352 2024-05-18T11:22:32.523305700Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-8ca21565-091a-4f9b-b22d-b2d9b0081a0d,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.2111984736</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  tspace:org.jpos.transaction.TransactionManager@7de25460: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.ASCIIChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-18T12:22:33.542539700" lifespan="500ms">
+    2024-05-18T12:22:33.041+01:00  INFO 3244 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-18T12:22:33.061+01:00  INFO 3244 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 8.862 seconds (process running for 9.607)
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:55291" at="2024-05-18T12:23:24.653296700">
+  <session-start/>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-05-18T12:24:41.238615200">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.857072900" lifespan="613ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.871071600" lifespan="8ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.920335600" lifespan="49ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.959804" lifespan="38ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.977808500" lifespan="17ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-05-18T12:24:41.999809200" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:24:42.051763500">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-05-18T12:24:42.051763500">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:24:42.070223500">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-05-18T12:24:42.071234500">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-05-18T12:24:42.311557800" lifespan="501ms">
+    2024-05-18T12:24:41.810+01:00  WARN 12904 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-05-18T12:24:42.312587300">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 12904@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/192.168.0.183
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 316.9 GiB
+      version: 2.1.9 (0060f93)
+     instance: 196aae60-4b4c-4e8c-81e7-cb9a50dc085e
+       uptime: 00:00:01.046 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 98/46/51
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1716031482 2024-05-18T11:24:42.089642800Z
+ thread count: 28
+ peak threads: 28
+ user threads: 22
+        Thread[#1,main,5,main]
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-196aae60-4b4c-4e8c-81e7-cb9a50dc085e,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.744165006</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  tspace:org.jpos.transaction.TransactionManager@2c5b0e8e: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.ASCIIChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="stdout" at="2024-05-18T12:24:43.277716400" lifespan="501ms">
+    2024-05-18T12:24:42.776+01:00  INFO 12904 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-05-18T12:24:42.788+01:00  INFO 12904 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 7.731 seconds (process running for 8.285)
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:55331" at="2024-05-18T12:25:21.077410100">
+  <session-start/>
+</log>
+<?xml version="1.0" encoding="UTF-8"?>
+<logger class="org.jpos.util.DailyLogListener">
+<log realm="Q2.system" at="2024-06-02T13:38:13.157409300">
+  <info>
+    Q2 started, deployDir=C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy, environment=default
+  </info>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.652039300" lifespan="491ms">
+  <version>
+    jPOS 2.1.9 master/0060f93 (2023-12-22 21:41:39 UYT) 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+jPOS Community Edition, licensed under GNU AGPL v3.0.
+This software is probably not suitable for commercial use.
+Please see http://jpos.org/license for details.
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Darwin)
+
+iQEcBAEBAgAGBQJMolHDAAoJEOQyeO71nYtFv74H/3OgehDGEy1VXp2U3/GcAobg
+HH2eZjPUz53r38ARPiU3pzm9LwDa3WZgJJaa/b9VrJwKvbPwe9+0kY3gScDE1skT
+ladHt+KHHmGQArEutkzHlpZa73RbroFEIa1qmN6MaDEHGoxZqDh0Sv2cpvOaVYGO
+St8ZaddLBPC17bSjAPWo9sWbvL7FgPFOHhnPmbeux8SLtnfWxXWsgo5hLBanKmO1
+1z+I/w/6DL6ZYZU6bAJUk+eyVVImJqw0x3IEElI07Nh9MC6BA4iJ77ejobj8HI2r
+q9ulRPEqH9NR79619lNKVUkE206dVlXo7xHmJS1QZy5v/GT66xBxyDVfTduPFXk=
+=oP+v
+-----END PGP SIGNATURE-----
+
+  </version>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.677056200" lifespan="21ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\10_channel_jpox.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.706572200" lifespan="29ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\20_ptsa-mux.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.739570700" lifespan="32ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\30_txnmgr.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.751571500" lifespan="12ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\50_pos-server.xml
+  </info>
+</log>
+<log realm="Q2.system" at="2024-06-02T13:38:13.770575800" lifespan="19ms">
+  <info>
+    deploy: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation\deploy\99_sysmon.xml
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-06-02T13:38:13.795923800">
+  <info>
+    start Thread[#52,Thread-6,5,main]
+  </info>
+</log>
+<log realm="org.jpos.transaction.TransactionManager" at="2024-06-02T13:38:13.795923800">
+  <info>
+    start Thread[#53,Thread-7,5,main]
+  </info>
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-06-02T13:38:13.802920900">
+  <info>
+    Starting SystemMonitor
+  </info>
+</log>
+<log realm="pos-server.server" at="2024-06-02T13:38:13.803930">
+  <iso-server>
+    listening on port 6000
+  </iso-server>
+</log>
+<log realm="stdout" at="2024-06-02T13:38:13.954447" lifespan="501ms">
+    2024-06-02T13:38:13.452+01:00  WARN 6008 --- [JPosTMS] [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+    2024-06-02T13:38:13.940+01:00  INFO 6008 --- [JPosTMS] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+    2024-06-02T13:38:13.950+01:00  INFO 6008 --- [JPosTMS] [           main] com.JPosTMS.JPosTmsApplication           : Started JPosTmsApplication in 5.108 seconds (process running for 5.58)
+</log>
+<log realm="org.jpos.q2.qbean.SystemMonitor" at="2024-06-02T13:38:13.967450800">
+  <info>
+           OS: Windows 11 (10.0)
+         Java: 21.0.3 (Amazon.com Inc.) AES-secure
+  environment: default
+ process name: 6008@RED-LAG-INTERN-01
+    user name: NoahUhunmwangho-John
+         host: RED-LAG-INTERN-01/127.0.0.1
+          cwd: C:\Users\NoahUhunmwangho-John\IdeaProjects\jPosCustomImplementation
+   free space: 297.8 GiB
+      version: 2.1.9 (0060f93)
+     instance: 9e108e90-07d3-440a-8ce2-06cc2798d85f
+       uptime: 00:00:00.840 (-1.000000)
+   processors: 12
+       drift : 0
+memory(t/u/f): 72/58/13
+     encoding: windows-1252
+     timezone: Africa/Lagos (West Africa Time) +01:00
+watch service: sun.nio.fs.WindowsWatchService
+  metrics dir: log
+        clock: 1717331893 2024-06-02T12:38:13.815928200Z
+ thread count: 40
+ peak threads: 40
+ user threads: 34
+        Thread[#9,Reference Handler,10,system]
+        Thread[#10,Finalizer,8,system]
+        Thread[#11,Signal Dispatcher,9,system]
+        Thread[#12,Attach Listener,5,system]
+        Thread[#19,Notification Thread,9,system]
+        Thread[#20,Common-Cleaner,8,InnocuousThreadGroup]
+        Thread[#36,Catalina-utility-1,1,main]
+        Thread[#37,Catalina-utility-2,1,main]
+        Thread[#38,container-0,5,main]
+        Thread[#39,PostgreSQL-JDBC-Cleaner,5,main]
+        Thread[#40,HikariPool-1 housekeeper,5,main]
+        Thread[#41,HikariPool-1 connection adder,5,main]
+        Thread[#42,pool-2-thread-1,5,main]
+        Thread[#43,Q2-9e108e90-07d3-440a-8ce2-06cc2798d85f,5,main]
+        Thread[#44,FileSystemWatchService,5,main]
+        Thread[#45,Timer-0,5,main]
+        Thread[#47,BC Entropy Daemon,5,main]
+        Thread[#48,pool-3-thread-1,5,main]
+        Thread[#49,channel-sender-message-to-ptsa,5,main]
+        Thread[#50,channel-receiver-message-from-ptsa,5,main]
+        Thread[#51,Timer-1,5,main]
+        Thread[#52,txnmgr-0:idle,5,main]
+        Thread[#53,txnmgr-1:idle,5,main]
+        Thread[#55,pool-5-thread-1,5,main]
+        Thread[#56,pos-server-ThreadPool.PooledThread-0,5,pos-server-ThreadPool-0]
+        Thread[#57,Thread-9,5,main]
+        Thread[#58,SystemMonitor,5,main]
+        Thread[#59,http-nio-8080-exec-1,5,main]
+        Thread[#60,http-nio-8080-exec-2,5,main]
+        Thread[#61,http-nio-8080-exec-3,5,main]
+        Thread[#62,http-nio-8080-exec-4,5,main]
+        Thread[#63,http-nio-8080-exec-5,5,main]
+        Thread[#64,http-nio-8080-exec-6,5,main]
+        Thread[#65,http-nio-8080-exec-7,5,main]
+        Thread[#66,http-nio-8080-exec-8,5,main]
+        Thread[#67,http-nio-8080-exec-9,5,main]
+        Thread[#68,http-nio-8080-exec-10,5,main]
+        Thread[#69,http-nio-8080-Poller,5,main]
+        Thread[#70,http-nio-8080-Acceptor,5,main]
+        Thread[#71,DestroyJavaVM,5,main]
+name-registrar:
+  tspace:default: org.jpos.space.TSpace
+    <key count='1'>$TAILLOCK.1902042</key>
+     key-count: 1
+        gcinfo: 0,0
+  Q2: org.jpos.q2.Q2
+  mux.ptsa-mux: org.jpos.q2.iso.QMUX
+    tx=0, rx=0, tx_expired=0, tx_pending=0, rx_expired=0, rx_pending=0, rx_unhandled=0, rx_forwarded=0, connected=false, last=0
+  jpos-channel: org.jpos.q2.iso.ChannelAdaptor
+    tx=0, rx=0, connects=0, last=0
+  tspace:org.jpos.transaction.TransactionManager@1d05da: org.jpos.space.TSpace
+    <key count='1'>$TAIL</key>
+    <key count='1'>$HEAD</key>
+     key-count: 2
+        gcinfo: 0,0
+  pos-server: org.jpos.q2.iso.QServer
+  channel.jpos-channel: org.jpos.iso.channel.ASCIIChannel
+  logger.Q2: org.jpos.util.Logger
+  server.pos-server: org.jpos.iso.ISOServer
+    connected=0, rx=0, tx=0, last=0
+  txnmgr: org.jpos.transaction.TransactionManager
+    in-transit=0/0, head=1, tail=1, paused=0, outstanding=0, active-sessions=2/128, tps=0, peak=0, avg=0.00
+  </info>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:50740" at="2024-06-02T13:38:33.634521400">
+  <session-start/>
+</log>
+<log realm="pos-server.server.session/0:0:0:0:0:0:0:1:50740" at="2024-06-02T13:39:53.419237500">
+  <session-end/>
+</log>
+<log realm="stdout" at="2024-06-02T13:47:40.142210800" lifespan="500ms">
+    2024-06-02T13:47:39.640+01:00  WARN 6008 --- [JPosTMS] [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s638ms215µs600ns).
+</log>
+<log realm="stdout" at="2024-06-02T14:12:04.791282" lifespan="502ms">
+    2024-06-02T14:12:04.288+01:00  WARN 6008 --- [JPosTMS] [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m24s567ms375µs800ns).
+</log>
+<log realm="stdout" at="2024-06-02T14:31:54.647801300" lifespan="501ms">
+    2024-06-02T14:31:54.145+01:00  WARN 6008 --- [JPosTMS] [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m49s808ms438µs500ns).
+</log>

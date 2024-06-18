@@ -1,0 +1,13 @@
+<logger name="Q2" class="org.jpos.q2.qbean.LoggerAdaptor">
+    <property name="redirect" value="stdout, stderr" />
+    <log-listener class="org.jpos.util.SimpleLogListener" />
+
+    <log-listener class="org.jpos.util.DailyLogListener">
+        <property name="window" value="86400"/>
+        <property name="prefix" value="logs/q2" /> <!-- mandatory -->
+        <property name="suffix" value=".log"/> <!-- optional -->
+        <property name="date-format" value="yyyy-MM-dd-HH"/> <!-- optional -->
+        <property name="compression-format" value="gzip"/> <!-- optional -->
+        <property name="delete-regex" value=".."/>
+    </log-listener>
+</logger>

@@ -1,12 +1,12 @@
-package com.serethewind.JPosTMS.exceptions;
+package com.JPosTMS.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
-public class IOStyledException extends  RuntimeException{
+public class BytesNotFoundInParseMessageException extends RuntimeException{
 
-    public IOStyledException(String message){
+    public BytesNotFoundInParseMessageException(String message){
         super(message);
     }
 }

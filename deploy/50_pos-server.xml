@@ -1,0 +1,29 @@
+<qserver name="pos-server" logger="Q2">
+    <attr name="port" type="java.lang.Integer">6000</attr>
+<!--    <server-socket-factory class="org.jpos.iso.GenericSSLSocketFactory" />-->
+
+    <channel name="nac-channel"
+             class="org.jpos.iso.channel.ASCIIChannel"
+             packager="org.jpos.iso.packager.ISO87APackager">
+        logger="Q2"
+        realm="pos-server">
+        <!--        <property name="packager-config" value="./cfg/packager/iso87ascii-binary-bitmap.xml"/>-->
+        <property name="connection-timeout" value="15000"/> <!-- 15 seconds -->
+        <property name="timeout" value="300000"/> <!-- five minutes -->
+        <property name="keep-alive" value="true"/>
+
+        <!--        a keystore for my own server certificate and a truststore for the ptsa server certificate tsl connection-->
+        <!--        <property name="ssl" value="true"/>-->
+        <!--        <property name="keystore" value="path/to/keystore.jks"/>-->
+        <!--        <property name="keystore-password" value="changeit"/>-->
+        <!--        <property name="truststore" value="path/to/truststore.jks"/>-->
+        <!--        <property name="truststore-password" value="changeit"/>-->
+
+    </channel>
+    <request-listener class="org.jpos.iso.IncomingListener" logger="Q2"
+                      realm="incoming-request-listener">
+        <!--        a space queue called 'txnmgr'-->
+        <property name="queue" value="TXNMGR"/>
+        <property name="ctx.DESTINATION" value="ptsa-mux"/>
+    </request-listener>
+</qserver>

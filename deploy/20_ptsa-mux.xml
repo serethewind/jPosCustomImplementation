@@ -1,0 +1,9 @@
+<mux class="org.jpos.q2.iso.QMUX" logger="Q2" name="ptsa-mux">
+    <mtimapping>0123456789 0123456789 0022446789</mtimapping>
+    <key>42 41 11</key>
+    <key mti="0800">41</key>
+    <in>message-from-ptsa</in>
+    <out>message-to-ptsa </out>
+    <ready>jpos-channel.ready</ready>
+    <unhandled>nac-channel-unhandled</unhandled>
+</mux>
